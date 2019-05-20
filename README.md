@@ -1,6 +1,7 @@
 # Interval tree
 
 [![Build Status](https://travis-ci.org/thangdc94/interval-tree.svg?branch=master)](https://travis-ci.org/thangdc94/interval-tree)
+[![codecov](https://codecov.io/gh/thangdc94/interval-tree/branch/master/graph/badge.svg)](https://codecov.io/gh/thangdc94/interval-tree)
 
 This is a java program to implement Interval Tree.
 
